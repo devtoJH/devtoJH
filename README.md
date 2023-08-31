@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4bc0c8&height=300&section=header&text=welcome!%20&fontColor=FFFFFF&fontSize=90&fontAlignY=40&desc=JIHYUN's%20GitHub%20profile&descSize=20&descAlign=65&descAlignY=55)
 
-<h3 align="center">📚 My SNS 📚</h3>
+<h3 align="center">🔊 My SNS 🔊</h3>
 <div align="center">
 <a href="https://www.notion.so/485a223880984c01b5a34fe588f27706" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="qkrwlgus718@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:qkrwlgus718@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
