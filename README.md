@@ -2,7 +2,7 @@
 
 <h3 align="center">🔊 My SNS 🔊</h3>
 <div align="center">
-<a href="https://www.notion.so/485a223880984c01b5a34fe588f27706" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.notion.so/Portfolio-fea3dfde6e1746b6b75bf230298cd58d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:qkrwlgus718@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
