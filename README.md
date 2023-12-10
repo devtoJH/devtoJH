@@ -1,9 +1,13 @@
 <h3 align="start">Hi there! 👋, My name is Jihyun 😎</h3>
+<hr>
 
-<p>I'm FrontEnd Developer</p>
+<p>I'm Juinor FrontEnd Developer</p>
+
+<h3 align="start">🙋 About me</h3>
+<hr>
 
 <ul>
-    <li>I enjoy game, walk. 🎮</li>
+    <li>I'm crrentily learning front-end skills 🔥</li>
     <li>I'm having fun developing. 😁</li>
 </ul>
 
@@ -24,10 +28,6 @@
 
 
 <h3 align="start">👩‍💻 My Github Stats 👩‍💻</h3>
-
-<div align="start">
-    
-[![devtoJH's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devtoJH&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/devtoJH)
  
 [![Solved.ac
 profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrwlgus718)](https://solved.ac/qkrwlgus718)
