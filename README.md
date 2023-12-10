@@ -1,10 +1,7 @@
 <h3 align="start">Hi there! 👋, My name is Jihyun 😎</h3>
----
-
 <p>🌱 I'm Juinor FrontEnd Developer</p>
 
 <h3 align="start">🙋 About me</h3>
----
 
 <ul>
     <li>I'm crrentily learning front-end skills 🔥</li>
