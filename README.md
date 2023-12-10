@@ -24,11 +24,8 @@
 
 
 <h3 align="start">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="start">
-    
-[![devtoJH's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devtoJH&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/devtoJH)
 
-<div align="end">
-    
+[![devtoJH's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devtoJH&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/devtoJH)
+ 
 [![Solved.ac
 profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrwlgus718)](https://solved.ac/qkrwlgus718)
