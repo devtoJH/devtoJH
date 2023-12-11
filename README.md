@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
 
-<h3 align="start">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="start">👩‍💻 My Baekjoon Stats 👩‍💻</h3>
  
 [![Solved.ac
 profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrwlgus718)](https://solved.ac/qkrwlgus718)
