@@ -3,7 +3,7 @@
 <h3 align="start">🙋 About me</h3>
 
 <ul>
-    <li>I'm Juinor FrontEnd Developer 🌱</li>
+    <li>I'm Junior FrontEnd Developer 🌱</li>
     <li>I'm crrentily learning front-end skills 🔥</li>
     <li>I'm having fun developing. 😁</li>
 </ul>
